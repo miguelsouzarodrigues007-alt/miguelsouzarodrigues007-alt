@@ -9,10 +9,10 @@
 
 ## 👾 Sobre o Miguel
 
-- 🎓 Cursando Engenharia de Software na Unicesumar
-- 🐍 Estudando Inteligencia Artificial, Java Script e Python
-- 📚 Aprendendo Git, GitHub e Inteligencia Artificial
-- 💼 Em busca de oportunidades na área de tecnologia
+- Cursando 1• Semestre de Engenharia de Software na Unicesumar
+- Estudando Inteligencia Artificial, Java Script e Python
+- Aprendendo Git, GitHub e Inteligencia Artificial
+- Em busca de oportunidades na área de tecnologia
 
 ---
 
