@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Cursando Engenharia de Software na Unicesumar
-- 🐍 Estudando Inteligencia Artificial
+- 🐍 Estudando Inteligencia Artificial, Java Script
 - 📚 Aprendendo Git, GitHub e Inteligencia Artificial
 - 💼 Em busca da minha primeira oportunidade na área de tecnologia
 - 🚀 Sempre disposto a aprender novas tecnologias
