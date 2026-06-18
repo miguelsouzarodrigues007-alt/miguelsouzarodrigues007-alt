@@ -56,8 +56,6 @@
 
 GitHub: https://github.com/miguelsouzarodrigues007-alt
 
-⭐ Obrigado por visitar meu perfil!
-
 </div>
 
   <div align="center">
