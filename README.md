@@ -12,8 +12,7 @@
 - 🎓 Cursando Engenharia de Software na Unicesumar
 - 🐍 Estudando Inteligencia Artificial, Java Script e Python
 - 📚 Aprendendo Git, GitHub e Inteligencia Artificial
-- 💼 Em busca da minha primeira oportunidade na área de tecnologia
-- 🚀 Sempre disposto a aprender novas tecnologias
+- 💼 Em busca de oportunidades na área de tecnologia
 
 ---
 
