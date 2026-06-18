@@ -44,7 +44,7 @@
 
 <div align="center">
 
-## 🎯 Objetivos para 2026
+## 🎯 Meus objetivos para 2026
 
 - ✅ Aprender IA, Java Script, Python
 - ✅ Contribuir para projetos no GitHub
