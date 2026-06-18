@@ -47,7 +47,7 @@
 
 ## 🎯 Objetivos para 2026
 
-- ✅ Aprender Inteligencia Artifical
+- ✅ Aprender IA, Java Script, Python
 - ✅ Contribuir para projetos no GitHub
 - ✅ Conseguir um estágio em Criador de videos com IA
 
