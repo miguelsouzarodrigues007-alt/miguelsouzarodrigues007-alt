@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 👾Sobre o Miguel
 
 - 🎓 Cursando Engenharia de Software na Unicesumar
 - 🐍 Estudando Inteligencia Artificial, Java Script e Python
